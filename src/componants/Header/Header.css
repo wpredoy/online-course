@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+    padding: 80px 0;
+    background-color: lightgray;
+}
+.header h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.header button {
+    border: none;
+    padding: 10px 35px;
+    color: black;
+    font-size: 25px;
+    border-radius: 5px;
+    transition: 1s;
+}
+.header button:hover {
+    background-color: lightgray;
+}
+.headerStyle {
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+}
